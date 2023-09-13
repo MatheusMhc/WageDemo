@@ -1,0 +1,17 @@
+C:\Users\Matheus.daSilva\source\repos\WageDemo\WageDemo\bin\Debug\net6.0-windows\WageDemo.exe
+C:\Users\Matheus.daSilva\source\repos\WageDemo\WageDemo\bin\Debug\net6.0-windows\WageDemo.deps.json
+C:\Users\Matheus.daSilva\source\repos\WageDemo\WageDemo\bin\Debug\net6.0-windows\WageDemo.runtimeconfig.json
+C:\Users\Matheus.daSilva\source\repos\WageDemo\WageDemo\bin\Debug\net6.0-windows\WageDemo.dll
+C:\Users\Matheus.daSilva\source\repos\WageDemo\WageDemo\bin\Debug\net6.0-windows\WageDemo.pdb
+C:\Users\Matheus.daSilva\source\repos\WageDemo\WageDemo\obj\Debug\net6.0-windows\WageDemo.csproj.AssemblyReference.cache
+C:\Users\Matheus.daSilva\source\repos\WageDemo\WageDemo\obj\Debug\net6.0-windows\WageDemo.Form1.resources
+C:\Users\Matheus.daSilva\source\repos\WageDemo\WageDemo\obj\Debug\net6.0-windows\WageDemo.csproj.GenerateResource.cache
+C:\Users\Matheus.daSilva\source\repos\WageDemo\WageDemo\obj\Debug\net6.0-windows\WageDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus.daSilva\source\repos\WageDemo\WageDemo\obj\Debug\net6.0-windows\WageDemo.AssemblyInfoInputs.cache
+C:\Users\Matheus.daSilva\source\repos\WageDemo\WageDemo\obj\Debug\net6.0-windows\WageDemo.AssemblyInfo.cs
+C:\Users\Matheus.daSilva\source\repos\WageDemo\WageDemo\obj\Debug\net6.0-windows\WageDemo.csproj.CoreCompileInputs.cache
+C:\Users\Matheus.daSilva\source\repos\WageDemo\WageDemo\obj\Debug\net6.0-windows\WageDemo.dll
+C:\Users\Matheus.daSilva\source\repos\WageDemo\WageDemo\obj\Debug\net6.0-windows\refint\WageDemo.dll
+C:\Users\Matheus.daSilva\source\repos\WageDemo\WageDemo\obj\Debug\net6.0-windows\WageDemo.pdb
+C:\Users\Matheus.daSilva\source\repos\WageDemo\WageDemo\obj\Debug\net6.0-windows\WageDemo.genruntimeconfig.cache
+C:\Users\Matheus.daSilva\source\repos\WageDemo\WageDemo\obj\Debug\net6.0-windows\ref\WageDemo.dll
